@@ -1,0 +1,17 @@
+*{
+	box-sizing: border-box;
+}
+    .form{
+    text-align: center;
+    width: 400px;
+    height: 500;
+    border: 10px solid rgb(32, 74, 135);
+    padding: 5px;
+    line-height: 30px;
+    margin: 0 auto;
+    }	
+
+input{
+	line-height: 20px;
+	margin: 20px
+}
